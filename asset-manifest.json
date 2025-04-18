@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/milkFront/static/css/main.d3c89cb7.css",
+    "main.js": "/milkFront/static/js/main.79a83b17.js",
+    "static/js/453.d3d6b486.chunk.js": "/milkFront/static/js/453.d3d6b486.chunk.js",
+    "static/media/burningbread.jpeg": "/milkFront/static/media/burningbread.95326fc5bac5e917f667.jpeg",
+    "index.html": "/milkFront/index.html",
+    "main.d3c89cb7.css.map": "/milkFront/static/css/main.d3c89cb7.css.map",
+    "main.79a83b17.js.map": "/milkFront/static/js/main.79a83b17.js.map",
+    "453.d3d6b486.chunk.js.map": "/milkFront/static/js/453.d3d6b486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c89cb7.css",
+    "static/js/main.79a83b17.js"
+  ]
+}
