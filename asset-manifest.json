@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/milkFront/milkfront/static/css/main.7e4eee6a.css",
-    "main.js": "/milkFront/milkfront/static/js/main.6bfad92e.js",
-    "static/js/453.d3d6b486.chunk.js": "/milkFront/milkfront/static/js/453.d3d6b486.chunk.js",
-    "static/media/burningbread.jpeg": "/milkFront/milkfront/static/media/burningbread.95326fc5bac5e917f667.jpeg",
-    "index.html": "/milkFront/milkfront/index.html",
-    "main.7e4eee6a.css.map": "/milkFront/milkfront/static/css/main.7e4eee6a.css.map",
-    "main.6bfad92e.js.map": "/milkFront/milkfront/static/js/main.6bfad92e.js.map",
-    "453.d3d6b486.chunk.js.map": "/milkFront/milkfront/static/js/453.d3d6b486.chunk.js.map"
+    "main.css": "/milkfront/static/css/main.b63f74f8.css",
+    "main.js": "/milkfront/static/js/main.80612c68.js",
+    "static/js/453.d3d6b486.chunk.js": "/milkfront/static/js/453.d3d6b486.chunk.js",
+    "static/media/burningbread.jpeg": "/milkfront/static/media/burningbread.95326fc5bac5e917f667.jpeg",
+    "index.html": "/milkfront/index.html",
+    "main.b63f74f8.css.map": "/milkfront/static/css/main.b63f74f8.css.map",
+    "main.80612c68.js.map": "/milkfront/static/js/main.80612c68.js.map",
+    "453.d3d6b486.chunk.js.map": "/milkfront/static/js/453.d3d6b486.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e4eee6a.css",
-    "static/js/main.6bfad92e.js"
+    "static/css/main.b63f74f8.css",
+    "static/js/main.80612c68.js"
   ]
 }
